@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mario8754
+- 👋 Hi, I’m @Sergio
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning reactJS
+- 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on data analytic
 - 📫 How to reach me mario.dulder@hotmail.com
 
